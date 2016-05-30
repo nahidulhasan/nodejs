@@ -1,4 +1,0 @@
-function foo(){
-
-	var bar;
-}
